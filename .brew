@@ -11,3 +11,4 @@ brew upgrade
 brew install wget
 brew install miniforge
 brew install --cask visual-studio-code
+brew install zsh-autosuggestions
